@@ -23,9 +23,6 @@
     "paths": {
       "@/*": [
         "./src/*"
-      ],
-      "@features": [
-        "./src/features/index.ts"
       ]
     },
     "allowJs": true,
